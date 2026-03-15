@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://alrafayethabib.pro.bd</loc>
+    <lastmod>2026-03-15</lastmod>
+    <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  
+  <url>
+    <loc>https://alrafayethabib.pro.bd#about</loc>
+    <lastmod>2026-03-15</lastmod>
+    <priority>0.9</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <url>
+    <loc>https://alrafayethabib.pro.bd#skills</loc>
+    <lastmod>2026-03-15</lastmod>
+    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <url>
+    <loc>https://alrafayethabib.pro.bd#projects</loc>
+    <lastmod>2026-03-15</lastmod>
+    <priority>0.9</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  
+  <url>
+    <loc>https://alrafayethabib.pro.bd#certificates</loc>
+    <lastmod>2026-03-15</lastmod>
+    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <url>
+    <loc>https://alrafayethabib.pro.bd#contact</loc>
+    <lastmod>2026-03-15</lastmod>
+    <priority>0.85</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+</urlset>
